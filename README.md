@@ -5,7 +5,8 @@ Objective:
 To develop a supervised regression model that predicts AQI using air pollutants and meteorological data for early warning systems.
 Data Used:
 
-The project uses the city_day.csv dataset, containing daily air quality and meteorological measurements from Indian cities. It includes features like PM2.5, PM10, NO, NO2, CO, O3, Benzene, Toluene, Xylene, AQI, City, and Date. Data from January 1, 2019, onwards is used, with a subset of 4000 samples for demonstration.
+The project uses the city_day.csv dataset from Kaggle (https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india). It contains daily air quality and meteorological measurements from Indian cities. It includes features like PM2.5, PM10, NO, NO2, CO, O3, Benzene, Toluene, Xylene, AQI, City, and Date. Data from January 1, 2019, onwards is used, with a subset of 4000 samples for demonstration.
+
 Methodology:
 
 The project follows a standard machine learning workflow:
